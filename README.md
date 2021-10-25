@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with dev stuffs
 - 💬 Ask me about dev stuffs
-- 📫 How to reach me: <a href="sudhanshutripathi008@gmail.com">email</a>, <a href="https://www.linkedin.com/in/sudhanshu-tripathi-624694208/">linkedin<a/>
+- 📫 How to reach me: <a href="mailto:sudhanshutripathi008@gmail.com">email</a>, <a href="https://www.linkedin.com/in/sudhanshu-tripathi-624694208/">linkedin<a/>
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: nothing
 
