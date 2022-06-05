@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on MERN stack
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning Material UI
 - 👯 I’m looking to collaborate on open source projects
 - 🤔 I’m looking for help with dev stuffs
 - 💬 Ask me about dev stuffs
