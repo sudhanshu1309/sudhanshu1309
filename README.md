@@ -11,9 +11,9 @@ Web Developer
 * 🤝  I'm open to collaborating on Frontend Projects
 
 <a href="https://www.twitter.com/sudhanshutweets" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/sudhanshutweets?logo=twitter&style=for-the-badge&color=22c55e&labelColor=1e3a8a"
+src="https://img.shields.io/twitter/follow/sudhanshutweets?logo=twitter&style=for-the-badge&color=22c55e&labelColor=365314"
 /></a><a href="https://www.github.com/sudhanshu1309" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/sudhanshu1309?logo=github&style=for-the-badge&color=22c55e&labelColor=1e3a8a" /></a>
+src="https://img.shields.io/github/followers/sudhanshu1309?logo=github&style=for-the-badge&color=22c55e&labelColor=365314" /></a>
 
 ### Skills
 
@@ -49,10 +49,10 @@ src="https://img.shields.io/github/followers/sudhanshu1309?logo=github&style=for
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/sudhanshu1309"><img src="https://github-readme-stats.vercel.app/api?username=sudhanshu1309&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=22c55e&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="sudhanshu1309's GitHub stats" /></a>
+<a href="http://www.github.com/sudhanshu1309"><img src="https://github-readme-stats.vercel.app/api?username=sudhanshu1309&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=22c55e&bg_color=365314&hide_border=true&show_icons=true" alt="sudhanshu1309's GitHub stats" /></a>
 
-<a href="http://www.github.com/sudhanshu1309"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sudhanshu1309&stroke=ffffff&background=1e3a8a&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/sudhanshu1309"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sudhanshu1309&stroke=ffffff&background=365314&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/sudhanshu1309"><img src="https://activity-graph.herokuapp.com/graph?username=sudhanshu1309&bg_color=1e3a8a&color=ffffff&line=22c55e&point=ffffff&area_color=1e3a8a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/sudhanshu1309"><img src="https://activity-graph.herokuapp.com/graph?username=sudhanshu1309&bg_color=365314&color=ffffff&line=22c55e&point=ffffff&area_color=365314&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/sudhanshu1309" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshu1309&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=22c55e&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/sudhanshu1309" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudhanshu1309&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=22c55e&bg_color=365314&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
