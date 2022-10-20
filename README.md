@@ -46,6 +46,8 @@ src="https://img.shields.io/github/followers/sudhanshu1309?logo=github&style=for
 <p align="left"> <a href="https://www.github.com/sudhanshu1309" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/sudhanshuweb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sudhanshu1309" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/sudhanshutweets" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
+[![@sudhanshu1309's Holopin board](https://holopin.me/sudhanshu1309)](https://holopin.io/@sudhanshu1309)
+
 
 <b>My GitHub Stats</b>
 
