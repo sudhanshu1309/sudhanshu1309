@@ -79,9 +79,21 @@ src="https://img.shields.io/github/followers/sudhanshu1309?logo=github&style=for
 
 ---------
 
+### Projects
+
+* <a href="https://notekeeperweb.netlify.app/dashboard" target="_blank" rel="noreferrer">NoteKeeper</a>
+&nbsp;
+* <a href="https://nss.iiitnr.ac.in:1101/" target="_blank" rel="noreferrer">IIIT Naya Raipur NSS Website</a>
+&nbsp;
+* <a href="https://askabir.in/" target="_blank" rel="noreferrer">NSS Regional Director's Website</a>
+
+
+---------
+
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/sudhanshu1309" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
+<p align="left"> 
+<a href="https://www.github.com/sudhanshu1309" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
 &nbsp;
 <a href="http://www.instagram.com/sudhanshuweb" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
 &nbsp;
