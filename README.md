@@ -7,7 +7,7 @@ Full Stack Web Developer
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [https://sudhanshutripathi.me](http://sudhanshutripathi.me)
 * ✉️  You can contact me at [sudhanshutripathi008@gmail.com](mailto:sudhanshutripathi008@gmail.com)
-* 🚀  I'm currently working on [SAC Website](http://sac.iiitnr.ac.in)
+* 🚀  I'm currently working on [SAC Website](https://sac.iiitnr.ac.in)
 * 🤝  I'm open to collaborating on Frontend and Backend Projects
 
 <a href="https://www.twitter.com/sudhanshutweets" target="_blank" rel="noreferrer"><img
